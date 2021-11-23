@@ -37,4 +37,17 @@
 
 创建博客成功
 
+打开储存库选择 gh-pages分支
+
+![Y@DL~6%}M266@Q2 )_6W~{D](https://user-images.githubusercontent.com/84163388/142983735-7393e8d3-25ad-49cb-b819-a524a5df3cf1.png)
+
+选择index.md
+
+![V1S~J6ASD58TG}IV_QR%_(L](https://user-images.githubusercontent.com/84163388/142983798-7d98662f-9533-43b2-842a-a94ceb96f739.png)
+
+编辑博客内容
+
+![{Y I IO}P4{SBVSLK`52 FL](https://user-images.githubusercontent.com/84163388/142983908-388e97fb-f5b9-42d6-8666-90b863c41c88.png)
+
+小组分析仓库的各个功能选项，分工合作由邬宇东同学和李玉峰同学画利用staruml画出仓库代码托管用例图，并由王赢同学进行用例描述与分析及建模过程，再由李玉峰.李天成.宁帆同学写出用例文档，再由李天成，宁帆写出博客内容
 
