@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+打开百度搜索，在搜索框中输入：github，点击第一条搜索结果。
+在打开的页面中，分别输入：你喜欢的用户名、你常用的的电子邮箱、以及创建一个安全的密码，然后点击绿色图标（sign up）
+之后，便进入了注册流程的第二步，需要选择一下个人的计划设置，默认的就可以，Unlimited public respositories for free（无限制的免费公共仓库），最后点击绿色图标（Continue）
+![_9)@WDL@0V96V7VVO5GQL7S](https://user-images.githubusercontent.com/84163388/142975446-eaedd04f-1df7-470a-ac73-62eba49745e5.png)
 
-You can use the [editor on GitHub](https://github.com/Litiancheng1491536903/litiancheng201921307070.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Litiancheng1491536903/litiancheng201921307070.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
