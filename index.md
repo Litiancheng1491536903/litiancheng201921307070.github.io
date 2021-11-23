@@ -22,3 +22,5 @@
 创建储存库
 
 ![20211123144846](https://user-images.githubusercontent.com/84163388/142981472-44b272dd-e88e-4e2c-8b45-afdd9cdef178.png)
+
+![image](https://user-images.githubusercontent.com/84163388/142981757-71b8a85e-5f21-4e92-8ebf-694bd198196e.png)
