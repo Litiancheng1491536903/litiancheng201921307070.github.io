@@ -18,3 +18,7 @@
 登录GitHub
 
 ![image](https://user-images.githubusercontent.com/84163388/142979428-e3973313-5e0a-44c2-9b05-81efe63e0712.png)
+
+创建储存库
+
+![20211123144846](https://user-images.githubusercontent.com/84163388/142981472-44b272dd-e88e-4e2c-8b45-afdd9cdef178.png)
