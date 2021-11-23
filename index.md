@@ -24,3 +24,17 @@
 ![20211123144846](https://user-images.githubusercontent.com/84163388/142981472-44b272dd-e88e-4e2c-8b45-afdd9cdef178.png)
 
 ![image](https://user-images.githubusercontent.com/84163388/142981757-71b8a85e-5f21-4e92-8ebf-694bd198196e.png)
+
+找到博客地址
+
+![{R$2 }DHM6GZ~@2$()@XDJT](https://user-images.githubusercontent.com/84163388/142983197-da60e920-ac5b-4d7a-89ba-7661557fac47.png)
+
+选择博客主题
+
+![`U0$@QY{_V{4U9{S5H33GHP](https://user-images.githubusercontent.com/84163388/142983251-08dfe3bd-9716-43df-9949-85251702ffa3.png)
+
+![1KK9G6RV3Z9~MZ)7Q2NN2(F](https://user-images.githubusercontent.com/84163388/142983282-79ef4183-04fe-49fb-8b92-e7c6e839da43.png)
+
+创建博客成功
+
+
