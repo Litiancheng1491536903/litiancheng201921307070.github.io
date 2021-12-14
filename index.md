@@ -130,10 +130,11 @@ ssh的需要通过git生成公钥，并在GitHub上配置公钥，其他的用�
 
 下载完成查看代码
     
-    ![image](https://user-images.githubusercontent.com/84163388/145965636-cbda7e2e-47a8-4a12-b916-c33394f4ad1d.png)
     
-    
-    ![image](https://user-images.githubusercontent.com/84163388/145965848-18f19104-c856-4e68-af5c-4578e20c601f.png)
+![)KJW%S1)QZ18BQ)G1ZMH@1D](https://user-images.githubusercontent.com/84163388/145975164-c4a87900-9e3d-4ae5-bd40-632121463027.png)
+
+
+
 
 
 
